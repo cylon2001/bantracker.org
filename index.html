@@ -1,7 +1,42 @@
-
-TEST FEED
-<script>
-fetch("https://divine-moon-91ef.cylon2001.workers.dev")
-.then(r=>r.json())
-.then(j=>{document.body.innerHTML="<pre>"+JSON.stringify(j,null,2)+"</pre>"})
-</script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BANTRACKER.ORG - Live Telegram Ban Monitor</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}body{background:#0a0a0a;color:#e0e0e0;font-family:system-ui;line-height:1.6}
+.wrap{max-width:1150px;margin:0 auto;padding:16px}
+.top{display:flex;justify-content:space-between;align-items:center;border:1px solid #222;border-radius:14px;padding:12px 16px;background:#111;margin-bottom:12px}
+.live{background:#00ff88;color:#000;padding:4px 10px;border-radius:20px;font-weight:900;font-size:11px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:12px}
+.box{border:1px solid #222;background:#111;border-radius:12px;padding:12px;text-align:center}
+.box b{font-size:22px;display:block;color:#fff}.box span{font-size:10px;color:#888}
+.layout{display:grid;grid-template-columns:1.2fr .8fr;gap:12px}
+@media(max-width:800px){.layout{grid-template-columns:1fr}.grid3{grid-template-columns:1fr}}
+#map{height:420px;border-radius:14px;border:1px solid #222;background:#111}
+.feed{border:1px solid #222;border-radius:14px;background:#0f0f0f;padding:12px;max-height:620px;overflow:auto}
+.card{background:#151515;border:1px solid #222;border-radius:12px;padding:12px;margin-bottom:10px}
+.badge{background:#ff3b3b;color:#fff;font-size:10px;padding:2px 7px;border-radius:10px;font-weight:800}
+.search{width:100%;background:#151515;border:1px solid #222;border-radius:10px;padding:10px 12px;color:#fff;margin-bottom:10px}
+a{color:#00ff88}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.fbtn{border:1px solid #222;background:#111;color:#888;border-radius:20px;padding:5px 10px;font-size:11px;cursor:pointer}.fbtn.active{background:#00ff88;color:#000;border-color:#00ff88}
+h2{font-size:12px;color:#888;margin-bottom:8px}
+.leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.8) contrast(1.2)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="top"><div style="font-weight:900">🚫 BANTRACKER.ORG // V2</div><div class="live">● LIVE</div></div>
+<div class="grid3"><div class="box"><b>13</b><span>COUNTRIES BLOCKING</span></div><div class="box"><b id="cnt">...</b><span>LIVE TODAY</span></div><div class="box"><b>2.4B</b><span>USERS AFFECTED</span></div></div>
+<div class="layout">
+<div><h2>🗺 GLOBAL BAN MAP</h2><div id="map"></div></div>
+<div class="feed"><div style="display:flex;justify-content:space-between;margin-bottom:10px;font-size:11px;font-weight:700"><span>🔴 LIVE FEED AUTO 6H</span><span id="upd" style="color:#555">Loading...</span></div>
+<input id="q" class="search" placeholder="🔍 Search India, Russia...">
+<div class="filters"><button class="fbtn active" data-f="all">All</button><button class="fbtn" data-f="India">India</button><button class="fbtn" data-f="Russia">Russia</button><button class="fbtn" data-f="Iran">Iran</button><button class="fbtn" data-f="China">China</button></div>
+<div id="list">⏳ Loading live...</div>
+</div>
+</div
