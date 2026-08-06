@@ -39,4 +39,35 @@ h2{font-size:12px;color:#888;margin-bottom:8px}
 <div class="filters"><button class="fbtn active" data-f="all">All</button><button class="fbtn" data-f="India">India</button><button class="fbtn" data-f="Russia">Russia</button><button class="fbtn" data-f="Iran">Iran</button><button class="fbtn" data-f="China">China</button></div>
 <div id="list">⏳ Loading live...</div>
 </div>
-</div
+</div>
+</div>
+<script>
+const GIST="https://divine-moon-91ef.cylon2001.workers.dev?v="+Date.now();
+let ALL=[];
+function render(arr){
+ let h=""; arr.forEach((it,i)=>{
+  let dom="NEWS"; try{dom=new URL(it.url).hostname.replace("www.","").toUpperCase().slice(0,18);}catch{}
+  h+=`<div class="card"><div style="display:flex;justify-content:space-between"><span class="badge">${dom}</span><span style="font-size:10px;color:#555">${i==0?"JUST NOW":i+"h ago"}</span></div><div style="font-weight:700;font-size:13px;margin:4px 0">${it.title}</div><div style="font-size:11px;color:#888">${(it.summary||"").slice(0,180)}</div><a href="${it.url}" target="_blank" style="font-size:11px">→ Read ↗</a></div>`;
+ }); document.getElementById('list').innerHTML=h||"No results";
+}
+fetch(GIST).then(r=>r.json()).then(j=>{
+ let items=j.items||j; ALL=items;
+ document.getElementById('cnt').innerText=items.length;
+ document.getElementById('upd').innerText=(j.updated||"")+" • "+new Date().toLocaleTimeString();
+ render(ALL);
+}).catch(e=>{document.getElementById('list').innerHTML="Error: "+e});
+document.getElementById('q').addEventListener('input',e=>{
+ let q=e.target.value.toLowerCase(); render(ALL.filter(x=> (x.title+" "+x.summary).toLowerCase().includes(q)));
+});
+document.querySelectorAll('.fbtn').forEach(b=>b.addEventListener('click',()=>{
+ document.querySelectorAll('.fbtn').forEach(x=>x.classList.remove('active')); b.classList.add('active');
+ let f=b.dataset.f; if(f==='all') render(ALL); else render(ALL.filter(x=> (x.title+" "+x.summary).toLowerCase().includes(f.toLowerCase())));
+}));
+const map=L.map('map',{zoomControl:false}).setView([20,0],1.8);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:5}).addTo(map);
+[{name:"India",c:[21,78]},{name:"Russia",c:[61,105]},{name:"Iran",c:[32,53]},{name:"China",c:[35,104]},{name:"Brazil",c:[-14,-51]}].forEach(b=>{
+ L.circleMarker(b.c,{radius:8,color:"#ff3b3b",fillColor:"#ff3b3b",fillOpacity:.8}).addTo(map).bindPopup(b.name);
+});
+</script>
+</body>
+</html>
