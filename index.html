@@ -1,1 +1,7 @@
 
+TEST FEED
+<script>
+fetch("https://divine-moon-91ef.cylon2001.workers.dev")
+.then(r=>r.json())
+.then(j=>{document.body.innerHTML="<pre>"+JSON.stringify(j,null,2)+"</pre>"})
+</script>
