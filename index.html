@@ -61,7 +61,7 @@ fetch(GIST).then(r=>r.json()).then(j=>{
  document.getElementById('upd').innerText=(j.updated||"")+" • "+new Date().toLocaleTimeString();
  render(ALL);
 }).catch(e=>{document.getElementById('list').innerHTML="Error: "+e});
-
+const GIST="https://divine-moon-91ef.cylon2001.workers.dev?v="+Date.now();
 // search
 document.getElementById('q').addEventListener('input',e=>{
  const q=e.target.value.toLowerCase(); render(ALL.filter(x=> (x.title+" "+x.summary).toLowerCase().includes(q) ));
