@@ -1,0 +1,15 @@
+# BANTRACKER.ORG
+
+> Live tracker of messenger app bans and blocks worldwide (Telegram, WhatsApp, Signal, and others). Data is sourced from multiple news outlets and updated automatically every 6 hours.
+
+## Live Data
+
+- /ban-tracker.json : Machine-readable JSON feed of tracked ban and block incidents, with date, platform, country, source URL, and summary for each entry.
+
+## Articles
+
+- /articles/bans-vpn-metadata.html : Monthly deep-dive analysis. First entry: why VPN usage spikes after messenger bans, and why that solves network access but not account or metadata exposure.
+
+## About
+
+BANTRACKER.ORG is an independent tracker, not affiliated with any of the messenger platforms it covers. It links to Z-TEXT (https://z-text.com), a zk-SNARKs blockchain messenger requiring no phone number, no email, and no SIM.
