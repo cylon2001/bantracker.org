@@ -17,6 +17,14 @@ MAX_ITEMS = 60  # keep the feed from growing forever
 # Platforms we track. Add more here as needed — no code changes required elsewhere.
 PLATFORMS = ["Telegram", "WhatsApp", "Signal", "Session", "Messenger"]
 
+# Ambiguous platform names double as common English words ("Trump signals...",
+# "pro forma session"). For these, require at least one confirming word in the
+# headline before accepting the story. Unambiguous platforms need no extra check.
+AMBIGUOUS_PLATFORM_CONFIRM = {
+    "Signal": ["app", "messenger", "messaging", "encrypted", "chat"],
+    "Session": ["app", "messenger", "messaging", "encrypted", "chat"],
+}
+
 # Ban/block keywords paired with each platform to build search queries.
 BAN_TERMS = ["banned", "blocked", "blocks", "ban on", "restricts", "throttles", "shuts down"]
 
@@ -81,6 +89,14 @@ def collect_candidates():
                 if not title or not link:
                     continue
 
+                # For ambiguous platform names, require a confirming word so we
+                # don't pull in unrelated stories (e.g. "Trump signals reversal").
+                confirm_words = AMBIGUOUS_PLATFORM_CONFIRM.get(platform)
+                if confirm_words:
+                    title_lower = title.lower()
+                    if not any(w in title_lower for w in confirm_words):
+                        continue
+
                 country = detect_country(title)
                 if not country:
                     continue  # skip stories we can't attribute to a country
@@ -100,9 +116,25 @@ def load_existing():
     try:
         with open(JSON_PATH, "r", encoding="utf-8") as f:
             data = json.load(f)
-            return data.get("items", [])
+            items = data.get("items", [])
     except Exception:
         return []
+
+    # Retroactively scrub old entries that would fail today's confirming-keyword check
+    cleaned = []
+    removed = 0
+    for it in items:
+        platform = it.get("platform", "")
+        confirm_words = AMBIGUOUS_PLATFORM_CONFIRM.get(platform)
+        if confirm_words:
+            title_lower = it.get("title", "").lower()
+            if not any(w in title_lower for w in confirm_words):
+                removed += 1
+                continue
+        cleaned.append(it)
+    if removed:
+        print(f"Cleanup: removed {removed} previously-added false-positive item(s).")
+    return cleaned
 
 
 def dedupe_and_merge(existing, new_items):
