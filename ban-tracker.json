@@ -1,30 +1,485 @@
-tracker · JSON
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "items": [
     {
-      "date": "2026-08-06",
-      "platform": "Telegram",
-      "title": "India bans 14 apps - Telegram sweep",
-      "summary": "12k+ channels affected under IT Act",
-      "url": "https://thehindu.com",
+      "date": "2026-08-07",
+      "platform": "WhatsApp",
+      "title": "WhatsApp banned 5.1 million accounts in June: Here’s what can get your account banned - The Times of India",
+      "summary": "Reported by The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMTZTMjN0Q1hyb3R6aXJwcHh4b3FpWWN6Ty1nYUtNYVZORkt6TWJwWVlILUlpWXV0M0hJSU02a3VuMk92Q0RXNGZjN3d2VWtxWkpzSUV4Vm5BOU9sOVJMN0xpMWVOZTJPU0pvZnlyOEtEVk9IV1d3MzZyYzR0MnhoZnZYaE1ZM2dnbmIxckRLRmhFQURwVkNxWFZ6T2FRNF95QlAwZzNNSGlLcnNUT3lrREpxa2s2RnJPeDhGMlB4MzVnSXNWM25JWmszTWJ0NmJlMll1LTlVMDFIX21OOGV3dHdDM0ZlX1VOcjhlQldkc2lFczlWM1dYbVlB?oc=5",
       "country": "India"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-05",
       "platform": "Telegram",
-      "title": "Russia blocks 200+ channels",
-      "summary": "Fake war news law",
-      "url": "https://reuters.com",
+      "title": "Why was Telegram suddenly taken down from Apple’s App Store, then restored? - The Indian Express",
+      "summary": "Reported by The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb19Kbko4WldyeWdyandkX2RRcVNlMG5TelFaRkplWFFBdWdiUFdwX2NJazBVcmNyNDBsZng2N01vU05IcVRKcGVCTHpKZjRMT29fR1ZvSXYtek5HeXAwRTVSNTkycXVPVG5aWkJVSnhXcjh3Z0hCc3J4ZGRadmJNNklvbDUzZTZKNGJCRl80QnJCSlp6YVpOT2szamdIdGs4V3ZLMTRDMjk2b1VxSXdSRXRlcUtvNXVVVklDMWtHVldHd9IByAFBVV95cUxNd0JvX09zbzdCTEhKZVZleDhySzVXcHU3M3VXSDVoM19kZi1oUjN4S2RTVUdQTFd5R1UwSENueG1tclBjRl8wR3ZicEZDM1RWcmlyRTJHLUZsN3BpMmx0bmwtbThyc1MyQ0k0QUJrT2pQOGdLV2ZwU3FUVXdXMkgxUmtUR1dBbUlNb2NkTHg5cXZnZkhCY0paTFNYZ2MzcTJaV3JndFRDaThxTmFuRW9kLURGZl9oMkRMMmdyVFlBc3gtUFdrNmdwdg?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-05",
+      "platform": "Telegram",
+      "title": "Centre blocks 4,996 Telegram channels, 1,263 websites in anti-piracy crackdown | India News - Hindustan Times",
+      "summary": "Reported by Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTUFoY190X1R0Q1VoTUpNMTYxRGpqbmFxLU9kQndMb29NajdTM2pWZzM0cHl4XzhITHpIRVA2SHRLX1lFSUhvT0JuVjZJdjktTEh6WmFNT0FkQzlsaGVFSEZPNGYyOTlVLUcxdThvRDh3N0JfSVhGRUJzUnBzeXY4b1g3Y0tndGpUXzFfMWFpVlpHYVpWa1kwUkxjODZ3ZUtRYnZpY0w1d2lFRWFxa3drMWpEVkx3S0FSWmVycjNVRHA0dzFGMUJiX0I2aVZfRXpCeWNUekk5T3V5WDIyeHpZdE5mNlpnU1p6RENIUTFIXzRVQTdTc2o0RWliWdIBgAJBVV95cUxPcHBlSzZ1UTk2cUt6NHoxbDBzTDE1RjFXc2pGZEl2Z3EtZzlrQ0VkbjQ4aFF1SlEycTdZSDFYUGJ3X2cxTVZ4OTJobDhtZ3BjdnBYVTRxR3hzYkxIeDI0V2ZlSEpWZkZySzdFTXM0TGNldERJcG55MGJxb0hQNDR2N19VMkVyM2pZa0kwYldUVkFLZFBrbjhlLS1uY1B5dmZKRmlTdWs1Mnk1czdYZXQyejFVZ3hjX0UyblNBaGE2cXFiV1VueTNrUkNydUZwWDcwNnFFSkQyNlQ2U3ZIdDZ6X3UzQW5UVUhZdHdQMGhuSUE5VkZEUnM0bEYtMy1pTFRy?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-04",
+      "platform": "Telegram",
+      "title": "Pavel Durov Branded Terrorist by Russia After Telegram Beat Every Block - techtimes.com",
+      "summary": "Reported by techtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTFTVUllNFlta21KZFUwTWQyVHpBaHc4NHR6ME5iTGFMNDRiYlh3YlZDeWEwSXhzbkdiblN0X0NyN1RYSjc2Y3o5UVVZZEU0SjZFR1VULXFoOEdRR3JGNWJYcjZWZ2VJZ3hYcjBaci1wWHVLa2JYTUYxTXRIekNIU1hicGxiU0VQSE95ZXZYSUQ0TFFJVTROR0R4Y2t2QUdWQUFXRXVic3FLS3MwZExFZnJDYS1TaDhFWUxmTUdSVFc?oc=5",
       "country": "Russia"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-04",
+      "platform": "WhatsApp",
+      "title": "WhatsApp puts several user accounts ‘under review’ for 24 hours - The Indian Express",
+      "summary": "Reported by The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEJUY3BId3JnZFlBOVNkd0ZHd2FXN0NfU0UtNS1DbEpHYUFFWDZTV2xuMWtjaVdWU1Z6ODVrV1M4N09PNmRGWGZIZDBHS2psaWhCRmlEandmSTdwQWNPTWduazZYVlktZ3I1SG5fWkdpbXdsdzNzUHhSUnBNZDcyUW1yczZ0QjZPSDdQYzRRdTNpcHRDZER3enVNQ3lJMXNveldqa2JEeWJkUdIBsAFBVV95cUxPMFY2MDRMQTRGQ0J3OXdwZVQ2UFFEclg5cWF3QXhkZTl4dTVfR2RveEVxUktjVXd0bHJDbFpTZ2tNSDRHQkoyNjJXZDlTd0RpV3dtZTZrbEx2U1llWTBRZ2JEcU50NmRFcC01cm1kdWFFallaNU5aMFVBN3dEdFpEV2RzTWRyZENJTm51Z21SVjI4dExPdzhLTjF6UDBPWE1aR2JCcmpncHlMTjVLRlM1MA?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-04",
+      "platform": "WhatsApp",
+      "title": "WhatsApp puts multiple accounts under review, temporarily blocks access for users - The Times of India",
+      "summary": "Reported by The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelJ0TFpiSjRKSFp4LUJBeVBQYUhJQXJydEtrY2xqbFhkdGg1bzZ0aEZJbG1NcWROWFVNUTZVcDZuUlFpczBVXzRwc2pyYkJnS25ZdWVhRGdYWlYybGJpb2dFQWQtal92V1BCZjVSYjhGUUxrUkFuaDEzRDVvRS0xZVF3ZFdXVXdtdzB0cVJpTzJBNU5yaUFLY041S09QRUFtZWRqZElnd2t3empIMmJQN0llUHhvQW5RelVYWHFXUEZBRHR4czBWblcteUFpYzcxV1JYX3N5eThodkhhYUxhUmdn0gHnAUFVX3lxTE9DUjdPRi01azF3RVB3SDV4VjJYUFFOREx4bXRqN2J2SXVfZXM3cTQ5MkxEUG1pejF6Q1hxa1NJcW5sTzk1V0Rfc1JYUGpGWS13ZUt6STVnR0FjcGIyNXN2QUdfU3AwQjk5eEdWdi1XSUo3ZUtZQnl4QXQyblY0Ui1sb25MMXktWDhyeWxfOG1mV1p5VFdxTkhHc0ljcGxsckVaTTUyY2Y1aHZsU2cyV1YzVUh5Zm1DWjh2SjZvVVB1SUNqdW4tQUpFLUhMLWZBM01lRlVoSUlnMmNZMGVMNVNIamxobERtUQ?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-04",
+      "platform": "WhatsApp",
+      "title": "Ditch WhatsApp, switch to WeChat: Pakistan Army's diktat to officers - India Today",
+      "summary": "Reported by India Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXNmaHBiUE5qa1NBTG9vby1lYXVoR0xaRVhTUjVlM20yT0NsQlZKX29NNDd6ZmpWTC1PRF80bUp3a1h5OVhoRHRMU0lfdjZSSmRGRUk5cXBFUmM5T1pHZWRqVy1fMF9QcllVNnp1V3pvWGpoVUtwMjljNU1NTkx5NUlEeVFPYXJEekVBYng3TU5WVWFGN2VLcVJ0ZUVXajgyYlJFTjZUSldIcHlERmQzT2JDXzBYZUVIX1BUUjR1WWR0QVHSAcgBQVVfeXFMUEdKdlhBemxvNlE5QkE5VlFvX0t0M2ctSTVBcDliei01SlROQ1hoY3NxRS1pUi1ycE1aeFZCUXhCQms5aU5UX2NveDc4R2xoM0dMbG95VkYyWDUwSmxtdjFkX29PMTZ5eGVtbXQ4bVNXTlpIWjExWElxUWF2SkppRzRyMUJoWngwRGE2UWJoREpNNm43OEJDQkx1SkhHY2luRHIyNU9HVGdWc1pFcU9NQk9ZVTZSV2FCbHB4U3JjQUZSLWJHV2pTd1U?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-04",
+      "platform": "WhatsApp",
+      "title": "WhatsApp accounts put under review for 24 hour: When WhatsApp account is put under review, how to appeal - The Times of India",
+      "summary": "Reported by The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNFdDYThwZ012d3d5RlpNRGpxRXR2bW9wWTNxU0RWeDQyQmhraXhWZWRKcGJHQ1JGWFdsUWVNSXZGTkN0M1l6RTc3d090emdmdF8wVGpWNk5MNFY4Ym44b2RpdWVsV1E0Q2hUVWk3OTRFN0JibS1nS0N5Qldnd19mZ0tMcjQyUVliejdoN2VvckhXWWJuMWE1RWYxNjl6U0xHRk9sTjA5RXRWekkyR21qXzRRZ1ZOQ1VJbEtXU2kyV24tdUNHRE1ETUdKZWhQN2ZMMnBaUHYyM0JVUjJzLU1sYkNSMlIwQ0ZBSFBnNy1pZGpZbE83MHNCNVl4dWFERnpjampQM1l4d216TEpsMjFyamtKUlNVM2Y1OFRHNXdOUFVjS0UtbnhHNGJwWnlKQm8yZGhqVWtvalMtbVd1VzQ3ZzRMOWhZYmRmQ0FwaFFmTEgtbktabzI0a3hB0gHfAkFVX3lxTE5DbkhtX0Y3WEduVmlRSXYwT0MydndsMnlMY1ozdUZRQmJlemFKd1k1OTNFOHVEc2p5eGdLeVhUM1ZqaHlSaGVJTmc1UlVTWXluQlp3R2swd25aUW5VNVJsMWM4RmRCemtqLU9vSWZCU2llSVVjVDJjNnk0TTA5OC1JWFBSbU9SeHlkS09UVlAybjk4MVBkOUc0OEZJWTY3RHZmb2hNci1MVUl0cXpiUjdtYmhRejRpUlQ0V2tFNU5pVEE5VDFUNnRlWGw1OUdnem1adUVXMWVhWV9CN2FlNkR6X3ZsVlFvR2xXaHBTZ3VyTUhjQmdrdmpHczVMTkVtX3l5eWs2UVlpTkU1WGE4X2xUQTU5and6QkJ6Y0xDTjlUeUdMR01qYTFYQTY0MEszdWVBc3ZfT2Y4cldMLWEtbHVDMjBtRUJoaks2emlQS1pLUDRFMkUySWtHYnRZdWF5bw?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-04",
+      "platform": "WhatsApp",
+      "title": "WhatsApp temporarily restricts multiple accounts, including in India - varindia.com",
+      "summary": "Reported by varindia.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR21aTlotbDVCZkE1cW9PQUpDMDJkcG5Ob1hSMEphY24tSnVoWHhFbXlGQlBLYjhtV0JNVEVNem9nZUhzMlB2ekVRMlNMOU16MVk4NG5mbUZpMFJuWWpfLUdQaXJnWnYxRjYtZjliV0JjWFFhOFNMb3VTNkRKZVdjMXlqOXhpTmsxWm9uanpYV01YQjlLNWFpamtlaEcyZw?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-03",
+      "platform": "WhatsApp",
+      "title": "WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times",
+      "summary": "Reported by Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-03",
+      "platform": "WhatsApp",
+      "title": "Is your WhatsApp working? Meta app puts multiple accounts under review, blocks app access for 24 hours in Ind - India.com",
+      "summary": "Reported by India.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcnpWbE5oWDZ0cGo3U2RKTDU4UFhVUW9LV2EwWWRRbDBqSTFRWUhoUmlGUVNINlVOdmNVajBzbTltT3hYc28yQzgzcmdoWERyQUplM2daVHdFXy1xY2xXajA4cnUzTmxQODhvb245bFZrUU56bndxRGQ2dTlSQ2ZGcGtkN21ucDI2cDU3NTRqRlRWSmlsMm8zMFRhRmhXT0JZX2FpbGM3LW1seW1XdC03UEtlSmxJaXNuOVNCV0dnck8xZjV2dVhSRFNxdE1uQVcyTlVmcEFTMzBBcmNtdl96OHhPWkQ1UdIB6wFBVV95cUxNYTBLNkN5czhfajU0YmFzaDZoS1hSUkNfYzV3TnFBanUtdUtDQzdTYURWNFBTZ2c3bkh4d1hCeXMwdEZ3cXFBTl9lT0FtTHhNMzlYaElpXzZvVkZaX3dZaDRmX2pRNDFKQWhsTHRzVDI3ZFYya2Q2TzJCMzFRQVhUOVFoeTc5SElLam1xZXhia19TZWJjM19nWXd4dzJHNnNZc2U5S3Z6N1R3VVRTS2Z2bGtoS2E3NXdreVQ1SndJaldCSXYtN0QzN0dkbFkwZXpEdi1EY1U3WTBjZUpKSmdoX1ZrLUl5a2tBQjBr?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-08-03",
+      "platform": "WhatsApp",
+      "title": "How Siteti Solves The WhatsApp Ban Problem For Nigerian Businesses - Techpoint Africa",
+      "summary": "Reported by Techpoint Africa",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXJyTzYwVHBrTU1hTUU4djVYZ05OWVptcm91TEF6cnQwNEY4TXhQQ1J0cGRjekJGTGR5aHdvSU1udldKOFNEbW9BQnhBdHJlTzFqcmE0YzQzQkpKNllzckFGVjVRRzFBTjY2NUc0UEh2VXdOQlJMeHNvaWFyQ2l4ajk0S2xkRTMxYXF3aE5NT0FVbklTZjZZV3I5dGVYXzMycU1NOHdB?oc=5",
+      "country": "Nigeria"
+    },
+    {
+      "date": "2026-07-29",
       "platform": "Telegram",
-      "title": "Iran throttles Telegram",
-      "summary": "70% reach lost during protests",
-      "url": "https://bbc.com",
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report - The Block",
+      "summary": "Reported by The Block",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWxYMTE2SGstaHlsZS1NZ0EtQW9vbzFieTNuRk1Qa2NMa2tFaE4yNDd0Nm96bVl0WG1zc19UMmdPaVlPVmVCMlNFRmVYaThTU2t0enZTQjllVXVqcjd2cHhYd2lsVEV3d2ZkT2N2VWdZVUpYNk1KQ1ZXaHRBdUtKZkZkcFYzQQ?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-07-29",
+      "platform": "Telegram",
+      "title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown - Courthouse News",
+      "summary": "Reported by Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2ZXTm5vbHBoYnhWYnVfc3NETE5pUVRzOXJKZlVWUy1HUm5nZU9GZHFrLVByOHJKMDl1OUlXTmVMOVl4UEZIdldDWXgxTHVJOVJJanVVREIwX3FHYklSeURiTGluQkU0RV90SXR0V1hMN21vUDVuWUUzXzVBdXViMXBabVAtUnNMYV9Yd3BYdWxHRF9oaGV6LUVMbjhlR2RxMFhwUjh0aUVBWFd4SDVMcmtYa0FUYlBaSzRFbkxpUmc?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-07-29",
+      "platform": "Telegram",
+      "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’ - Al Jazeera",
+      "summary": "Reported by Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlpZUEY4bHhaMGpuUlZ0UTZUVUdqbnBYaHplZngtTTQ4NVRCNk1jV0JDS0FvaUxNbkZvLWNucUF2dmZoMmVlSVJiNWZsN0Y2Tjg0TnFkY09PMWlrQ3lyVGY3aDdoY056N0E1UUtaZkE2Wmlpd20yeUpESXhhdmN4VVlRNTBOZjBwVEhIRE1uU2JRRkhhby1nbUdURy1nZ3ZLVmwtbnZNQTJoUdIBrwFBVV95cUxPVzhTMHNOTGRyR0NCUDRuYWpwTUNneTYyTWN5b0haazB4clZCTWE3WlhUaHMyLXltaFdXclFFYXhSQVpvOUFLNll1SW5YOVhUbkc5Tm1MYWp6MnB4U005NWV0THI2TlpKOWtQZDVBeGliUFFaaURVY3E1c3A3ZmVyMnUzenozR29JUEdYeXdmS3N0aGFndHpsYWhLUEdQS091cGs0Y2tCd3lhY282U1dV?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-07-29",
+      "platform": "Telegram",
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, puts him on wanted list — as app fires back - New York Post",
+      "summary": "Reported by New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZjFacHJ6d1h1MzZCNVkwWk1aN242MnVJZXkyYlluUDZVRE5wcTJxdGtMQ3M2Z2NvRWNraVlheVZrUXVMVkQ3WmxPUktGbUpYWkx2dUI0RUpfQWpTZ3dGUlY0ZWVFdzhQRWs2Xy1fVWQ5QWtyMHE0WjEzeTUtcVdReERGQTJSVGVDa3p3SFZFellhSnNubXNtcUdyd0ttM0JqMnMwZmlacjV1a1B0U2IyOFRVVlhRLThiZEQ3WU9EUEZEQ2FmMDUtbFR1UQ?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-07-29",
+      "platform": "Telegram",
+      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorism And Puts Him On Wanted List - ETV Bharat",
+      "summary": "Reported by ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZEQyUGMyNS1yLUg1VUFUVnlGMl93Wk9BSjNMV0pmdHpBQXJFQ05SbVdZNFMzaXlmc2pROFRRYkJHN01JbnNQTEZXZlJCdXM5OEJ4anIyZkNjLVpKRmRkbWpUUGNRenlrbHhGVWZ2dnhUd0xFbnBxdmR4NFFUbzlDYmk1UUM1NE12akprR3hITWM0cXAtSnB0SGhjWC1jTW9BWHdRVW9GQllvNnRxSHE3dmlWaVV6d0g1ZnpqT3lWamV1bkJKUnFQSW5UN3lTaV9BTUkyeXZIbnVmT0dWUUktejFrUmsyZ9IB6wFBVV95cUxNdy1IUzIyWFJsekxzX0tWUmktT3gwLXpicFRjOGJtZl85NV9RZlo0YWt6akZkNFhGdUFueHBhSnpaUlBXTjhkQTFjY01ZaTM5SjltSEtsN1hTYWhnZFV5WlY5d1ZKWWh1Zks0ZTBlWnhSSUFHRW8wY0tyUW1HZEkyNnJkeDRhOVAwbWxaTWhtaVgxZHVvMEUzcTkwZFEtejFfeUlrb19HRTlaeUVTbm9LNW9ZVzZwbGFzbHR4VVVWMVZJQ3dhWGNLMXVicHdDTTZ6eHFNNGZkX2JXUG9nNklzUzkwYXVNXzk1T2ZF?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-07-29",
+      "platform": "Telegram",
+      "title": "IRGC says Telegram closed account used to collect information on US bases - Iran International",
+      "summary": "Reported by Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZdXhBUWRZTjBWeDVQNVRsVkIyNGd6V3I5ZXFxb2FOUUJZMmdKYmRDRnlDNE9rU1NlRUZLc1ZHcFF6YWFXVWRnaFNrV2ZPa3JaN2c?oc=5",
       "country": "Iran"
+    },
+    {
+      "date": "2026-07-29",
+      "platform": "Telegram",
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism - BBC",
+      "summary": "Reported by BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBS1E3WWVaNVM0R0RkZno1dnM5M1RGZ1o4Rll1dGN0VXp6QmV5ZzJNVUh4N1Nxd21ZbDgxVnJGMFZxTy0xdGhYang1S25KTmNaYU1EcU1HQWJtQmQ5?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-07-07",
+      "platform": "Signal",
+      "title": "Trump signals reversal of Turkey F-35 ban - Financial Times",
+      "summary": "Reported by Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEdLeTN4ZFhlc25raUpJbzRXb3RESUJwZTk3NDFiUlg3eEhQVEQzdzFoODZCSE9zVTVTdVBVYnIyRDZLY1RDdXBHbGRHZXdxd2tsY3NKYUlGNF9PWGpTaTN5RnBhdlJiV3BOTTV3ektLSkc4U21oSWtnR0Jkckg3SlVPUGY?oc=5",
+      "country": "Turkey"
+    },
+    {
+      "date": "2026-06-25",
+      "platform": "Messenger",
+      "title": "Russia’s state-backed messaging app Max blocks regional chats where users tracked gas availability and shared information about lines at filling stations - Meduza",
+      "summary": "Reported by Meduza",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSndOTmRETWRNSklHaXJEUFhXSEJzaWxCczNqbFVsb2tweW1tazVQYzRuU19HdVVQWG5rdVUtbUJOajhZUGczWVNmS1N4MzFFNHdtNU9RTzlPempEZGJMNlA0VHdwYlJ6SUM4QkEtT1JjR1Ryc3B0Q2hvNk1wS3RlNmVfakFvNUJHUTlkVzZiMW93WUdkZ2FjTEtiVWtHblZCNllkcmZaclJBWDlOM1Q4OUc1ajN2UEpsNjItTktkU0VHWURSczBIUHBFUkNjVG5aWDdOa2FWY09iX1J4U1JrRjNTYTZ5QzBuelQ1MDd3Ql9BekdfT2ZtcG1MZjNpYmlfdDZBVmN3TmU2bmxmekMtLUdWT1VMZ1N4WUHSAZ8CQVVfeXFMUFA1M0xlUXpBS0wzOHZMRTFRVUR0cTlXQW9iWGMtSVhlZndMbi01OUhOR3M5aVYwVzNqTXF1WUEzdmFQZl9IYmgzU044YWdpQnRnZEdJUXBiTWhMT3hSYjhCVmRMaDNvcHRweTg3WDZYSllNTkhEa3I2bHdoTXl5eVRnYWtqdnRkeVVfU3pIODllTEpzTnpLcnJZSFBKMGV4cE91WWwzbl8zUm54Y2o5dzRrR0JjU0ZGSDRuazVEcnN0THU0S3lTZUJKNlB0VUhoWWppVm5JS0pYQkVmVUhoRnIxSWI3VjQ3ZURQLXU2eFNtSFljM2p4RzM2NDlpZGE1MGVfcDlsTnhUejJwMDkwSzhxY0RjV3ZDM1hWTUdEY1E?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-06-24",
+      "platform": "Signal",
+      "title": "Belarus Shuts Down Drone Signal Repeaters Ahead of Zelenskyy’s 7-Day Ultimatum Deadline - UNITED24 Media",
+      "summary": "Reported by UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEV3Qlh3X091OHBoWGxNZDlsNXlkOUZ1YjJIODNSSzFoRzljLWVYZ2ROdnFUUl9RZEc5d0d1N2QtOW04YWVKYllDLS1oYTBwc3c5c3JqUjMtUzhsdjg4NF9pMUp0UVd4Z0pTZnRXZi1jSjNEa1puQ0FqbU5keEpZVG9tLW9ySFZfdmRUemo0MmdQQ1kzVXBuZ2JiekVaUC0tLVJ2bkkxOTVKWFk2d1lsWTBhQ0xLemNLN3B4YTdiMkwzWHU3dmpJdHpHWnU2UQ?oc=5",
+      "country": "Belarus"
+    },
+    {
+      "date": "2026-06-20",
+      "platform": "Messenger",
+      "title": "Anxiety and app bans as sweeping cheating scandal hits Indian students - NBC News",
+      "summary": "Reported by NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajdQME5VV01NWGZJTG1CQTdjR0QyX254SGVzclA5aHR5WGM1Q2E4SVlHcDVzNGxqLWt1dUlhUGVPR3VIOTAtMTFkemd0UEFMNm1jY3hFNkFjYjF4YmgxYUVuazBMMl9YMkVsOGJ6WU45ekhhdkhkOXNYZm1GLXh6dmFDYVhWa2swVXJvLUJ3X00tZGpGSURMZENQTFVWVEhDZ09DYVQyelphR1dP?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-06-16",
+      "platform": "Telegram",
+      "title": "India temporarily blocks Telegram app over medical exam fraud - Reuters",
+      "summary": "Reported by Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTgwN3ExdXNIMmh6SDFpb0pMTEV4bEJZQzlOYWU3TE5wbWFaaWFNT2xVSVFmeTl6WlVKYXMzSElPcE5sSGdoNXFzMWg3Q0ZSdkpUSks0QU0zU0tHUnNpVGMzT1dDWXNpUDI1aG1aT0Q2ZVZzV1ZvSHZyM3hHX09wS1EtTWQ1cHBQX0pFa0prLVpfTUNxRzdKS19aemtiSmYySGlIQWNpamV4YXltSy1lLVZvTQ?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-06-16",
+      "platform": "Telegram",
+      "title": "Telegram's Durov says India punishing 150 million users after country temporarily bans messaging app - CNBC",
+      "summary": "Reported by CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-06-16",
+      "platform": "Messenger",
+      "title": "India temporarily blocks Telegram over exam fraud concerns - SC Media",
+      "summary": "Reported by SC Media",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3ZRY2lnRUxDSWNmU0VFMzNTNUgwbm5ZY0Zra3BBbnkyRm1fclVzQW1BQkJwQnBSWkc1TXpHSlpSUERrUEhkdjNMa1RUUzRIWWZaVWRPbDBjWHlSVWR1cE14NnRiS1FtUjNPYW14UTI4OTVrLWNEWUdhd2FLU21YM3pBOXlVYTlXVmVtbl9Za29XUQ?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-06-16",
+      "platform": "Messenger",
+      "title": "'India punished more than 150 million people': Telegram founder Pavel Durov slams ban on messenger app - Deccan Herald",
+      "summary": "Reported by Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnRvTXZ5WnFEaXlOMHNybGVIUkRkVnRscWdZOGNuZ1V6MVJHT0xlOTItbGlYN29GbHRobzlJNkJndjZCNjRnYXZwYXV6c2VVMko1a1hBQmV4TTVLaXphQkZBQzdXa1hqZ0V6di1YVXZFM0xMU3BzOEtWM2VLbnBXWFNoV3pnWDM2YU9MNXg1Qk9fOENZVTJpbWh6XzBCSk1LTURFalllQ2hZaDRXVlFRNHc5WXNxWmw4UWRpUVZPTk00UFU3SlJVOEVUb2EyTmpiaTJTdUNXOHBwdnIwemhFUw?oc=5",
+      "country": "India"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "Messenger",
+      "title": "Russia’s State-Sanctioned Max Messenger Removed From Apple Store - Kyiv Post",
+      "summary": "Reported by Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zUEdoNVdfQXVUSTU0VWgySHFuTnZDVkJCaV9YOENKdktDc2Y3YXY3SWdMVHZZcks1YUxVQVo5RFk4ZUwxVTRtSWFvaw?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "Messenger",
+      "title": "Apple Removes Russia’s State-Backed Messenger From App Store - Channels Television",
+      "summary": "Reported by Channels Television",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc18xQm9JcE8wcU56elFfWjA0NGxWUktwRDJqRVpVcThJeWt3RzQ5SkpETnpHa05JZFNXTmdxUEMxRktkbTdYWmllcS1JSUJoTUQzMFM3ZWc4RHY2UTBWa19ld1ptaElmSUpRV0RqUWJ4Q0ZuTFpjSTVnQUpkYnNZczBFd0hyZTd6VnFOYTZDbDVtOUd6NmxvRF8yY3VHY28?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-06-03",
+      "platform": "Signal",
+      "title": "China: ‘Heartless’ ban on Tiananmen Mothers visiting cemetery signals escalating repression - Amnesty International",
+      "summary": "Reported by Amnesty International",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHhTenNNNE9TWFVLWGJ4Q3pzdE81MXhKN1dCT1VCTmpydEJCR1dhS0hqdE5WR0s1bklaa0dYRl91eDNCOEpxaWdjSlpZS3gwODY3cXJIa1VUclJpYUNJRzVoR19qbnQ1ZmM3dTJSdGJkX1lSMWxiNzlRZW9HcElfV3pkNkUwVExVekRPZXBVZVBqVXFzZlZEQUdsd3FjMXpjelFhcm04c3lqWjgyX2RqRmF4SUVweEtEdnpHeHJUVm9BSnlSTTlDZ3Z3Nm10bkJXNXc?oc=5",
+      "country": "China"
+    },
+    {
+      "date": "2026-04-30",
+      "platform": "Messenger",
+      "title": "Cloudflare recognizes russian messenger Max as spyware app - ukranews.com",
+      "summary": "Reported by ukranews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUG1IMTd4Um14SVRhOFdkNElWZ3RPQ3pwSzZDZHJ2SkZOcEZnVkdfNU5GMnhKYkpLWjVXUGMzdDlYRUFTWWlfdUFHMjNlcExVUTdRcmdzc1lIRWpORndXaDQ4eFpNYnl4Z1QySzJnLTExY0lhX0NjMHFjTjVCNDVwaHpiUmRHanV6U0I2bjhUU1djNl9KMmhodm1tWdIBoAFBVV95cUxNNGJBZTBCbS16dWExT1oxYzNHZjhwX2ZHNzBDelphVE8zM3ZKS01PNUdSWDJUTTJxN19sbFhXSUJLOXVvR3VIcmQ2MVZiZFhHeWtzdnVlbjBDMW9DN1BhS2pWdTBGS0ZVaXFfeE40Z3Q3NUk3M1pJUlNBNWZGblZQb1k0ZlRDLVhadm44MmxjMEstWlBiTVA5VDA2SE1Ea1U4?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-04-24",
+      "platform": "WhatsApp",
+      "title": "Russia foils bomb plot against telecoms execs amid online curbs - Inquirer.net",
+      "summary": "Reported by Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTB0WG96NDJwUHBKYUJSSG0xODUwN3dHYmg1TkdfS0NUamRKakF5NE4tWmhVdVpkTG1SWFZCOXVqWlg0T2trWm1MVTRyRHhaM2tXUXdIVWk4ajBwaDZ4Y283T2diRVhQWG5ZaVQ1ME80X01jQUM4M2E3QlJ1NnpWS3djQmNRZnoxdDJtblAyaF8zbG9COTJuMjRzcjA2eXIwdS1leWlrb9IBrAFBVV95cUxOel8zbXlvMG9LVDZkWFVrUnlUdGUzeWZRbG9LQWZlNlBjTzg4WTZVU3hqMWQ4Sm0zYlFBOTR2XzZMUjh4UVBfYWFBS3UxR3NZeWVQazRfQ2xBSng3ZDM1Rndmd2FrZVVzSDF6UzB2YkM3emRYRkU1c3FkWkd4aE55c19YSXBPVnVIa0luMTk1dm40aHd5cFB3LW80d0NBamdZSVBYcnZ6VERXeGlZ?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-04-24",
+      "platform": "Messenger",
+      "title": "Russia Says Foiled Bomb Plot Against Telecoms Officials Amid Online Curbs - Kyiv Post",
+      "summary": "Reported by Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fY29qZHZpU1gyWDF5bWwxLUc0bl9hMnZ0eExzbUE4WnF0ZFpJZ1ZScHhJSVJMTUJqdThkRVhHcDE1T1p6YWxqWTREZw?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-04-16",
+      "platform": "Session",
+      "title": "LIV Golf CEO Scott O'Neil says season will continue 'full throttle' amid reports of Saudi Arabia cutting financial backing - Sky Sports",
+      "summary": "Reported by Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU0dFczg3UjVuQ3JwbXpiU2ZaSlFGekRUa2ljU3Z0bHl1cjhFZGZISHpFRUI0dlpEdGVjTnZDY2plTEZmYTFSWnlhTjZ0dFltRXlfMUN0RXFMRzY2SloxWDJ6VTdualBUVHZ5b3Njd2ZvVVcxV0hvWC1iVXpPOXptdTd6R00xT2ZlQldyM1RTTUhMVUZHN29IVzhmV2NJOFpQSnhPUXd4SnByd0JtYjlSeEFLNnRxemp2VXFQcGgzZFByT0lPd0V6Tmh4ZFFVY0s3T20waXBmX3RKY2ZLT2JScC0tTlgyVlhQajFYd1ItM0JHdm9Cdm9zdzJpMTRQNE0?oc=5",
+      "country": "Saudi Arabia"
+    },
+    {
+      "date": "2026-04-11",
+      "platform": "Signal",
+      "title": "US-Israeli Strikes on Iran’s Universities Signal Higher Ed No Longer Off-Limits - Truthout",
+      "summary": "Reported by Truthout",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkF5Ri0wclRIQUNKalRMZTRVLXVDdi0zVG1NYUplVXlfV044UHMtS1owRllKX3lGVncwTWpDX2ozczRTaVVSVVpvWk1UMnk1TVZKS2ZKcnpQZVpVTnZhZ2I3WUlSdjM4Z2FOSDVkeUNhQjJiUU4yM21VV0ROYmpBWktmOWYxelFqbTJZRDRBQlVvWFM2T2I5ZFNiNG9kb3JJbTJfVk11eGMwNVNsbHc?oc=5",
+      "country": "Iran"
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "Session",
+      "title": "Fourth Iran War Powers Resolution Blocked in the House - C-SPAN",
+      "summary": "Reported by C-SPAN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXN3OVJHcnlwNjNFV0lrNkNyZ3hRQUJfTDUxS3VCQUxuU3RFMlRVeUpXWG44TS05REI3VWFaTThYWmdaOW5lcHU0b0VHQ2dhZUo3aEYtM1plNmx3WFZfcDRGQS02QzRwc3R0SFZrMnpmOUFsQy05SWktNkY2UlVXMVM4SjdERjFZRDNOU2F2Q0V4eW5aSVRDUGdTM09tWEJsZnlueDhaOGxsM1M2S3VIaElTRVNqY0NYZUE?oc=5",
+      "country": "Iran"
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "Session",
+      "title": "Republicans Block Democrats’ Pro Forma Session Effort to End Trump’s War in Iran - Truthout",
+      "summary": "Reported by Truthout",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0I2cnNxZUdWVzJCb21SWG9UMlJ1eGVmQWJkaXY1RENpZG9HLVdMX1oyOGJpNXBZbmJoTmVzc1JzZFdiOUpITzJrRW1GQkRkT09scHN6M1loRy01U0haN1E2OUVDakhLU1N2a3JxSW5qQUF6LWFvaFZxeEk2SjN5VG0wMlBhMWxaZFZSUE1GdTZzekVMNk9EdkJHcWd2WkJwdy1QVjNfemhLSHhtQmc?oc=5",
+      "country": "Iran"
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "Session",
+      "title": "Democrats to try limiting Trump Iran war powers during House pro forma session - The Hill",
+      "summary": "Reported by The Hill",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTFDSHcwd0s3R2RRcmI2bjlnQV9WNktoVGNyeGNnSDdBOXpGSWZoWDVIekd3T3BEd0RWQzRoRjE0RG1wMTlSU3ZwMVFPQ0R6elRFRk9qWWlHMmJndENoZ1BEeUloU2Vzamg0d2hFSlQ2MmIxcDlnYnZBRkhTeDgxUNIBhgFBVV95cUxNeGJSTGNvbGZ4TEpncDlQX3BabGRlNHBxOU82LXExWER2ZHdBVjhqR3QtNGhXb1B5dW43Uk84TVZjZi1QbElSeEx2WUtma3pBWXdJWEpvd0NqSmlSdV9nbU1XVWZsRno4SkxnaUhCQWlnQ1JJTFE4OVBUbm5wdXlTcV9XTGhTQQ?oc=5",
+      "country": "Iran"
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "Signal",
+      "title": "Saudi Arabia raises Asia oil price to record - Taipei Times",
+      "summary": "Reported by Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04dFQ2SXhUWm9KM3RZTjRuNGd2NE5JTm0zU3dmRjZCZ1I1bmR2OXpWcElTQjBVNlFSbjQ3U1ZmOHYtRWFVbkxTUlluSU9RRlc2M3FEWTNfU0xDUnZqMjFFekRneDRhUkJsZDZweW90Y2xoYk5oTVE?oc=5",
+      "country": "Saudi Arabia"
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "Messenger",
+      "title": "Behind the curtain. A comprehensive guide to Russia’s internet censorship in 2026—and what life feels like inside it - Mediazona",
+      "summary": "Reported by Mediazona",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xNkVVbklERlhZT3l5RW9HeVlvRWpaOEVxalgyOVpaYzdPQzJwckpVeDZCNnpKUm9FNVVVS1FaTDktWDNzbmg4SlpFcTZXUG9fcjV1V3dHNHNmSGc1bmluU3hRNEI3OGRGUUt3blBQOW00Y1ZMY29uVm4xT3huQQ?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "Messenger",
+      "title": "China Blocked Jack Dorsey’s Decentralized Messenger bitchat - incrypted",
+      "summary": "Reported by incrypted",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0NxM1RVTjZuWXFfYjl1TG1jNi1zT0ZlS0N4LWJoWFRKMWtnQkZfSWdaQWpiUGt2OVBlU0tsRkxCMHUtUG9RZVlUSzROZnRYLUtNN1pFb1otcEhhODlER3RpNEJ2Y2JRSnBOSlFJN1JDcU9FSUlaNHczNEx1RERCbkhmdUJWTG8yR2F1bw?oc=5",
+      "country": "China"
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "Telegram",
+      "title": "Truth-seeking Russians try to save Telegram - The Christian Science Monitor",
+      "summary": "Reported by The Christian Science Monitor",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmhjMnlWZ3hYazhRVGlLZ1ZWOWlvQWlXVGZ6emt5aHcxZ0dWQ1ZSbFRNTXRydm5xQzZWbjhVY29Lek5YRFdSbnBpLUlIdzBmRVIwQkRSaWhxY2ZZRnBDNExkLVNHN0k0d2dsSjE0SWQ0UjcwMEl1b2JmREpHa3BXMHBwZ0NibkFLNDBuek1od3ZpOW9hV1U2M3BEUVIxM3dBRkd5NERYUHBGY1hT0gHGAUFVX3lxTFA0eXI0ZmhZV0l3Y0J3WWdlNmF0cTJIUk95WlQ3RWwzTzlDV2toSjhJajJDdmZhcnNJSWRsZGhyRHdFV0xacnZ3WEZHR0hMeF9ETEkzTzdjemZPakMxWndBWVFtcmFEVTVDbnNhblhsdHhoZlJkWUMyWkZMMGN4UFF0dldmMjAxNl9sMnFMNU02aURpQnd1TGxWN3BpeWsyZ3YxWVVzY200bDFoUGZ0U1ZqbHY1VjVPUmU3Z3JBakhEUnJWcVBSdw?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-24",
+      "platform": "Messenger",
+      "title": "Russia pushes unencrypted Max messenger as WhatsApp, Telegram face restrictions - Türkiye Today",
+      "summary": "Reported by Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTU5SXlXXzlkci1SbkJNZWRLZnVDUVRSd1lXYlBMdEVuR3RDSTFYUGxuMXpxU3ZNbDRrSllyaW9Mb3p3UUN4dkRVRS1VUEJWb2w5c0tUTmstX3FwZi0tZTRkLVlyTW9RWGxmVGZWQ1lVOWdmZmF6bVh3ZkNhQmVrck54NThKMDhfZXk4bUVydl96YjFRYmFWV0kyRG1aN294WXNaU3JaUVNCODZ3c1VMd3BIUWdmcnFkdEx4N1dISnBqQQ?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "Messenger",
+      "title": "The Mess With Max, Telegram, And More: Russians' Patience Tested By Online Troubles - rferl.org",
+      "summary": "Reported by rferl.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTktaW5EOEVhUXZic3VXSHNlTkxNQm5LRjk1OE44TEVIeHlkWHpCTVdPU0FiM1loMFBRUnBFX05SdkpNTDdpcXQ5a3ZSeldlc3o4QWFoR29xaTgwNTdleTNGQ0ZiZG9tNno5YWo4SmpmbmMtNW9ZMkVfdVFoQUx2MXhKYlVKcmwybG8tSkQ5QnNsbF95NGowQ0gta3NrR0dZalVyck5neETSAasBQVVfeXFMT2pKWmFBVU0zZ1pFaUVXbjM5azFQaWlFMzdQMi1leUpOdXJmZmtCSnlwSmFfZC0zRkgzZThiMlN5di1BVjFXaW04OEU1NTlMd0liaHRBY3RYQWh2TWJDZEl4RHBQaVhidWNpajlVMlFxM3I2eGk3ODhwNVdDcEF2bmFsNzFGQzdXNmp5WG5sanMwZEsxQ3J5dUxiRVZhdHpBYy13Z0FOdHpGUVJj?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "Messenger",
+      "title": "Russia Promotes Max Messenger App As WhatsApp, Telegram Face Bans - NDTV",
+      "summary": "Reported by NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVHRxd0pTOHU1cDdpOHBVUUVVQnNrdFZfaUd1R0ZaWllmRm9uaS1uazFiSUc4bGFlUFlnNVJaQUdMOVRFTzJWTU5UbG56QUR1ek9Ia2x6TEVJcW56WVpYSmQ0OEdMR2ZxQm9ob3loX0hCZkpiOXJUTjBpVjlEZGxVX3BIOHc1YU9wVXBsZlNZdkFkZUN1RjhieWFpRzFYeWF5d3lna3hoal9BdVR1RlZpMXcxMm9jSlZj0gHAAUFVX3lxTE4zdGJvQ3Q4MGpEdFQ0YlpvODZGQktKWmtZOExUVGE5VEwtNW5nWjV0Wmc3QlZJTW9ueGViREtnU2V0TDE5Mmptb3ZuWlJLMnNFc3pULU5ENUFyaHFkaHZKRDRJdE0zUm9rMEFCQUtFNWV5UjJXQ1JNUFVRUUZlVkdDXzZUcjFUVXdvM1A1WndZbkpHdWtFczUtVUZ6X1ZzdjZxNkdZUWRfY2pTaGgwcGFMRWhIWHdEc1o5bnVudGcxVA?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "Messenger",
+      "title": "Russians flock to South Korean app after Kremlin restricts Telegram access - The New Voice of Ukraine",
+      "summary": "Reported by The New Voice of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHp3YmRTVTRUZlRZTlVHSkVWSi1nSDljamhPcm1DX05XWkNwTHpfYVBEMWNsaDM1SVo0c2k0QWNrUGpPU3RrRDAtaDZZaDdxUHAtRWVNeUtZTHUxcVdCOEVBRU1ua0gtZk1ZUEx1Qm1lemEzeFh2TmpnNUF4OWdqY09DQWc0d1pJSUhmQm52MUzSAYwBQVVfeXFMTXpINUJRZlRSX0JKTy1LSUdxeEx3NWNqZnpsY3RaMU1UZGNDcE1FZHVjOWlxUm5kUFI1ZVNZR1A4bExCWUxuZzZpZzRGRDJxTjlQMGNnYVVrNktKbVlPdlNBSXhzajVNYS1ORXBYeE5qWHlCQ2wtSGcyeW1PN1pfVUdUUk5vS0RjZ2VaOHI?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-22",
+      "platform": "Telegram",
+      "title": "Russia is killing Telegram, its most popular messaging app, despite fears of pushback - NBC News",
+      "summary": "Reported by NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHYzX2paUHpzcGZtcGdqdnFmd1drTElnWHZ1S3RtVHFsc1BQYXZqQ3c5ZEN0TE1hMnp3MzVmZjBBeUVTYy1jc3VxUDV6aFdjTFo1ZlNDQThMNXQ0UG03ck80eFFfLVg4YWtVYU4zUVBybmQ5RTF0VGh4VkZDMnV4VENhOGpVTTFSY09ocWt0SHozWmxBeWlJdFQzLWpUZWZsWm4yTTBoRE90U05x?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-20",
+      "platform": "Telegram",
+      "title": "Why Did Messaging App Telegram Fall From Grace in Russia? - carnegieendowment.org",
+      "summary": "Reported by carnegieendowment.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVVEcjlnYlpiUGJhR0tKTmVOcmZqWFc4MUxvdDFfRlhzaHR4LV9OWS13UmpLSTgxdHlpSTRfSWRYYmxnbHBmOUVEcjJVeW1TTGI5Z0lZOFZqLWZFS04zSEZKdzBadTB1a0hBRUVDTWE3OTA5cE10dERfRFhXdzZwdnh5eDIxV25mc29UcWs1bFd5NzhtaGhPY1YxUXVyZ1RD?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "Telegram",
+      "title": "Telegram shutdown begins in Russia — here's everything we know - TechRadar",
+      "summary": "Reported by TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1hla19UMXo3ZGtnQ2E5NndMY2dBME1pM3RQZzF1MjdvZl9VTTJEVC1pSW1mMWpqTWxTcFdBQUpoQTZRQTQxTFU1UXo4aHZLNGs1ZkQ0NGJjdlNzTFBqMlAyS3Nwal9nSzFZZGFqbEVRZnRnWEJHbTBZYlhRT29FUjFNYUdfY3lQdFVOekRpcmlCMGVxTkVBQzZwcmVmelVzVjExdnI3MHR1TmZydEpn?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "Messenger",
+      "title": "Amid Kremlin internet crackdown, Russia’s most popular messenger app is disappearing - kyivindependent.com",
+      "summary": "Reported by kyivindependent.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2t5ZkV1bTU4SHh0b0xKeVk4VGtqV0h2OTM0RWVoYzlsQWVLU0NrQXZ0YmpmRHhSSnNaYW0yOTZUM1BGNC13ZXRoT09mZ09kbERoVnBqZkxlbHNIc2cweWlDZGxRWWVNYWV4RmxOZEpNOWN5ekFqLXAxdWxCanYzN0JhUXdYbmk3aS1ncjh2R3FPYkZONkFlQkpNRFo?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "Messenger",
+      "title": "Protests against planned Telegram ban prevented in at least eight Russian cities - Новая газета Европа",
+      "summary": "Reported by Новая газета Европа",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnIzNmxVRi1GbGtLZjNJc1lteE5EN2dkaGZJTEFXeHRTenJNZnFNUHNHSmF0QkEwZDY3d1NZQ0lsbkl1WjViTW9TMnF3UFM5TzZ1RWNMWlI5QlFqOVVVbGY4RTZtd0Z0NWZuMnFtYkg1NFdpaHk0TDBDTnpaSUtxZTJCX3h6S252MkYxelRkZDRVQW5ScXpZcEZONml4NHFpUkgtX2RWRHplTXhVN1J2NTdfNkJ3SElQMEF1VmlZNmFmVkdLM0QzdWJKaTlIYkp10gHWAUFVX3lxTE5abHdZcnR6dmJlYmR5ZEdDMVFncm9lTnZoZGp0SlJnVW9pS0VNX3EwdGtxR3dYUDdxRWVBQm5PRmtYaG1HMVR2UGRKTF9LX0h6RFBxOTBuU3F4dHR2Z2lIbW53TVhhbmZuU21ZVy03czRzN05ULXhEZjVVUGtmTWV1RGpBOHUtbzBpd292anU4RDZ5RHNBM3dKbFZvU3d2ckloYUZORTU5aXB2N0RHRmc1SEhEY2VwLWl6MXhTdGtUbVhFcGY3dFlqSHg3aTVPLXFvQktTaUE?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "Messenger",
+      "title": "Russia steps up campaign against Telegram with allegations against its founder - WKZO",
+      "summary": "Reported by WKZO",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzVhaFVTTmpENHlPUFZmcHNrVjdKNFZuLWF6Q09jclJXUThiMi1tYnJjc2plb2luZ2puLUZGYjhkdXAyaTNDWHJVeUpRZmNMQWtxY1VTWllOYmhjZ2VWUEZDcmI0ZEZxeWl0XzJRaFJGa09YcGhaR2E2RjNZX01OUHpwUE80M0pqcWRsc3JjelQyTTVtSTlORkN4dkJaSS1ndWx4Tk1BN3BKSENNWGU1UXVR?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "WhatsApp",
+      "title": "As Putin Shutters WhatsApp, Russians Fret About Telegram - bloomberg.com",
+      "summary": "Reported by bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVNOdUhrVmtqSXJJMlFKRWtnMTNsdU1teWpudnlESnZFSklwd1IyT1hrQkFWajRJMXVYaDFpeEVkeWc3d0FDV3RDcnpIQlJYUjZKMHIzZDAwQW0xWGNVejhPM1BVd0FmdGZucmY2SlJTN3ZwWU9vOGZsM0p3UkxvNkRXOS1VcEU2Tk5JQy1RcVpGUl80MmNUcnZwMW1GekR0WHJSNFAyNTd3QXl2a3MyX0dlSk1BeF8tXzdmU2ZDYw?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "Telegram",
+      "title": "As Kremlin Throttles Telegram, Russians Stand to Lose More Than Just Messaging - The Moscow Times",
+      "summary": "Reported by The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmxKQlhxcmxEZEh1UE9rNEV3Ylg5azFhOTJDcjl1Rl83RWJoaTlWOVVGMGFEMkJybjhZZHFmbWpVcFBLaGFEbVZ1aEZ0cTlSSEVSbGUxU1ItWDJRTEM1eThJYXo2WWptNmxfbi1XR252WVYweVZkTE96Qkl2WmZ2aEZXZjZhT2h0aWpvaVhUSjg0emRLWW9sR3l5WlNLNTJEbWlQOFh4eW1mYXdtLVo0TnlJRnJRZWFfS0dNeURJczg2MS1W?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "Telegram",
+      "title": "Russia's occupiers had a 60-second Telegram kill chain. Their own government just turned it into a hours-long crawl - Euromaidan Press",
+      "summary": "Reported by Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGRqOHprN0RIRnZBdUJ3NWN6SmI5US16S3Qyekg3em0ybHkyOFpVTF9remR3Rzl2bnN3TFZuQlZmcldvSjduVmhaSnlMRjlOdWpFWnc3OTA5blRFS3BmMFlVMEFTd3pWMzNyOTNJWFFEdGVUd1JwS1hRc3JobFY1YThpLUpfcmJob0xpa3RpTVJtcFhZTC1xdmV5T3kxUHlVWTVYLTJWdWJrY2VkUC01NG1tbDE5d1VLZElOLUltR1FXRnJfQTJ0cnFOcWRtQQ?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "WhatsApp",
+      "title": "Russia blocks WhatsApp as it pushes state-backed alternative on citizens - CBS News",
+      "summary": "Reported by CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VoSlZCdnRwdW5lZ3dCd1lpZ0NxajF6S00wVUJEV2g1VkIzT1dLaGduQy1Oa1VaOEhiVDNpMXZwTUlIZVlZekp1c2xtb1NydHFpcHdOZkEtV3NyWWF1WXlmMFNpeDEzcFJ1eWlFTVgzbXZtcjBMU1FtRnpaSTdGYUVhZV9Nb3hoQlVSNjlVS3FRV190aXZsU21wZzUxYWRlN0VuadIBqgFBVV95cUxPTUZTOUtVbHlVSnN1dnBqdm8tdmY1SzBTQ1pRZ19OWnFPbXlQUGh2ZnlxeTZndU10eXRia3dpYWxHWUUybWcyT3lmck9XWV9tdXViRnhfbnJabHNEeXRSVm1OeHpLZzJRRmgtdVNIN2JLcFdRRGhFREJEbWhHd3VTNkxtdnRhb21ZZkdmeElsVklhSEpvQTJoYjJ2U1N6V3EwY0RzSFY3MXNVdw?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "WhatsApp",
+      "title": "Russia bans WhatsApp, pushes state-backed alternative - Al Jazeera",
+      "summary": "Reported by Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3N3bXVOS0w1THctU29CYzJ5b2xyZ3dLVmZVMDFVWHYtLWx1MTVWNGpMSVQ2b1V3cW40cUdEM0JJWGJUaHJoWUVJaWc3S0pldGRXazl3NFlyMUlBR2l3dWJaejVYVm5MNmR6VzlKQnRCWEVzbVRvUWNjR3lkelJLTU9uNGtwcnZib0hfMUR2YXVxRTZaR2kxajRmS0plUdIBowFBVV95cUxQMzYxdzc4OVQxQVBlckZTNnhINFZxOENONEJDLTg0c3NMenE4dWtMZW9RQ2U3NmJha3lfd21ieERTMXgwblp6UmdNUVFkWXdYMlJiZVJScHFYUUFlZ19pWG5lVlZQa0JyLUgtOGZoNWl0R093ZmtMMm1TdVREZWR5SmxfamVLYVZucklUM0w0clo0S21ueW5RNnhkb3BKeU91MGJV?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "WhatsApp",
+      "title": "YouTube, WhatsApp blocked in Russia - dw.com",
+      "summary": "Reported by dw.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Xb1NuOHlUei1Gdy1XLWh2Y3ZWMi01QzgtbkIzT3dzaGFxN05RRVZRQXoyMUhwODNsTnZCX0FYcEVTZkZwdDB4RVhvTG1fb3hjTmJUeGo2MWdrM19XS2trMTF6akR1T3lFZG5pM2NCTGhUWHpoWEHSAXZBVV95cUxQM19lclB0QjhBOWh2QTZZY3E1S1RPcFZRd3RnWXRqemNELWNQYWc1QVp2Q2g1S1NHZVJDdTlIaEdEUlRCWVloMnJZeUxhN1NMOXZqUUx5dEJ6cnFtb3JySXhUX2w0TzZnUzkzT045LWIzT1V1dXVB?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "WhatsApp",
+      "title": "Russia fully blocks WhatsApp, talks up state-backed alternative - Reuters",
+      "summary": "Reported by Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1B6d01VMFYwVE85b001TTZXOU9Lb0VDYjYzTkI3NWN1QVlKdEVzWWUzb1ZwRFl6Y2tOV2wtLTJ6ci1NMHNiX1Nld1h6Z0Iyd2ZnNlZuS2dPMXdDM2NXTHlPYkc0Z0pFYUNveXFtb2t4TGp4RVBEbmwzbWhRaUdyaGJaOWxwUnNtcmlzYmNRUVZSQ3RvZGt0LVBTRnJRRXpWSU1aODBCbw?oc=5",
+      "country": "Russia"
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "WhatsApp",
+      "title": "Russia blocks WhatsApp & Telegram to promote state app - Bitdefender",
+      "summary": "Reported by Bitdefender",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDE1M0RPcEVWYVNNQkFQYktEWDlkLWFubGZlZ0w1N1JrVElhMzl6ZXowTDVQVTlaTzRXUFZFVV8zcWpEN3A5M0lPaDhaZ09JRXRDT1BBbTlZWmdWeTFyMkZ1TXMtZWNNQ1ppYWRIRjJHRFRHQjQ1Um1IYzQ1ZUlYRng1OVN4OVNHNTl0YmZHOVhhTlFPQndKSjgzNlprbVJkNk5wLXBfZEo?oc=5",
+      "country": "Russia"
     }
   ]
 }
