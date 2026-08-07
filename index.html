@@ -1,7 +1,3 @@
-
-
-
-Index · HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,13 +56,13 @@ Index · HTML
     <h1>🚫 BANTRACKER.ORG <span style="color:var(--muted);font-weight:400;">// V3</span></h1>
     <span class="live-badge">LIVE</span>
   </header>
- 
+
   <div class="stats">
     <div class="stat"><div class="num" id="statCountries">—</div><div class="label">Countries Blocking</div></div>
     <div class="stat"><div class="num" id="statToday">—</div><div class="label">New Today</div></div>
     <div class="stat"><div class="num" id="statTotal">—</div><div class="label">Tracked Incidents</div></div>
   </div>
- 
+
   <div class="grid">
     <div class="panel">
       <h2>🗺 Global Ban Map</h2>
@@ -86,7 +82,25 @@ Index · HTML
       </div>
     </div>
   </div>
- 
+
+
+  <div class="panel" style="margin-top:16px;">
+    <h2>📖 Deep Dive — Monthly</h2>
+    <div class="items" style="max-height:none;">
+      <div class="item">
+        <div class="top">
+          <span class="title"><a href="/articles/bans-vpn-metadata.html" style="color:var(--text);text-decoration:none;">Bans Don't Work. VPNs Don't Fix What Matters.</a></span>
+          <span class="tag">Aug 2026</span>
+        </div>
+        <div class="summary">Why VPN downloads spike every time a messenger gets banned — and why that solves access, not exposure.</div>
+        <div class="meta">
+          <span>Analysis</span>
+          <a href="/articles/bans-vpn-metadata.html">Read →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <footer>
     <div class="badges">
       <a class="eff-badge" href="https://www.eff.org" target="_blank" rel="noopener">🛡 Supports EFF — Electronic Frontier Foundation</a>
@@ -96,7 +110,7 @@ Index · HTML
     </a>
   </footer>
 </div>
- 
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 (function(){
@@ -118,11 +132,11 @@ Index · HTML
     "Uganda": [1.37, 32.29],
     "North Korea": [40.34, 127.51]
   };
- 
+
   let allItems = [];
   let activeFilter = "All";
   let map, markerLayer;
- 
+
   function initMap(){
     map = L.map('map', {zoomControl:true, attributionControl:false}).setView([20,10], 2);
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
@@ -130,7 +144,7 @@ Index · HTML
     }).addTo(map);
     markerLayer = L.layerGroup().addTo(map);
   }
- 
+
   function renderMap(items){
     markerLayer.clearLayers();
     const byCountry = {};
@@ -146,7 +160,7 @@ Index · HTML
       }).bindPopup(`<b>${country}</b><br>${count} incident${count>1?'s':''} tracked`).addTo(markerLayer);
     });
   }
- 
+
   function buildFilters(items){
     const platforms = ["All", ...new Set(items.map(i => i.platform || "Other"))];
     const el = document.getElementById('filters');
@@ -160,7 +174,7 @@ Index · HTML
       el.appendChild(chip);
     });
   }
- 
+
   function renderItems(items){
     const container = document.getElementById('items');
     if(items.length === 0){
@@ -181,12 +195,12 @@ Index · HTML
       </div>
     `).join("");
   }
- 
+
   function escapeHtml(s){
     return String(s || "").replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
   }
   function escapeAttr(s){ return String(s || "#").replace(/"/g, "%22"); }
- 
+
   function refresh(){
     const q = document.getElementById('search').value.trim().toLowerCase();
     let filtered = allItems.filter(it => {
@@ -198,7 +212,7 @@ Index · HTML
     renderItems(filtered);
     renderMap(filtered);
   }
- 
+
   function updateStats(items, meta){
     const countries = new Set(items.map(i => i.country)).size;
     document.getElementById('statCountries').textContent = countries;
@@ -207,7 +221,7 @@ Index · HTML
     const todayCount = items.filter(i => i.date === today).length;
     document.getElementById('statToday').textContent = todayCount;
   }
- 
+
   async function loadData(){
     const statusEl = document.getElementById('feedStatus');
     try{
@@ -222,7 +236,7 @@ Index · HTML
         platform: it.platform || "Telegram",
         date: it.date || data.updated
       })).sort((a,b) => (b.date||"").localeCompare(a.date||""));
- 
+
       buildFilters(allItems);
       updateStats(allItems, data);
       refresh();
@@ -234,7 +248,7 @@ Index · HTML
       console.error('bantracker: failed to load ban-tracker.json', err);
     }
   }
- 
+
   document.getElementById('search').addEventListener('input', refresh);
   initMap();
   loadData();
@@ -242,3 +256,4 @@ Index · HTML
 })();
 </script>
 </body>
+</html>
