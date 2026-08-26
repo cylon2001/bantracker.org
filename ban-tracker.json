@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "items": [
     {
       "date": "2026-08-24",
@@ -250,6 +250,14 @@
       "country": "India"
     },
     {
+      "date": "2026-07-31",
+      "platform": "Messenger",
+      "title": "Russian Mobile Carriers Waive Data Fees for State-Backed Max Messenger - The Moscow Times",
+      "summary": "Reported by The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb01jZDctRTBSRG1kYUd3Mzk1aFlEbVNhTTZDVklqVmpDeldUSXN1MDU3R1k4ZDdJUmU2ckRYaFJpaVlRTkRmZVBCYzlNZkhOTDFKdk8yZnRJOUFvdmRJX0c5VGYxY0p5V205YW5CWTRJM1BkeUNBV0h0YWRmYWhjS0h1RXBHTXY3UUF6ZzlMNjF5TDlTLXB2emRjTFhUUkQ1Q18wQ2xWb3BiYjZOYVh6SWZvbzFTZUFQckdj?oc=5",
+      "country": "Russia"
+    },
+    {
       "date": "2026-07-30",
       "platform": "Telegram",
       "title": "Kremlin charges Telegram CEO and prepares for possible ban ahead of mobilization | Ukraine news - Межа. Новини України.",
@@ -471,14 +479,6 @@
       "title": "Messenger Max blocked fuel supply chats across Russia - Межа. Новини України.",
       "summary": "Reported by Межа. Новини України.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KUGJGQlJ5R2ZDSEJKWVRHN2RaNkR6Nm5hYThjNlI4ZElkZExJaVlMeE40R0x0bkNKNHMxZjRwX21tQVowb3RadE80THFVS1B6U1VqNk1nM0JzcGhfaS11bmdkcVZSU1JONEJV?oc=5",
-      "country": "Russia"
-    },
-    {
-      "date": "2026-06-23",
-      "platform": "Signal",
-      "title": "Signal Is Blocked in Russia: Рrivate Messaging App Can't Guarantee Accessibility - ua.news",
-      "summary": "Reported by ua.news",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVV0MHdObmhTcnZxZjBWeUlrOG9mTHlkUVM1UEwzUTVZU0ZiSTU2XzZIZG5ZUFBuc0U3a1JjU05HWldnRWlrUFNBM182WE56aVU3VFA4Z0MwMldKQ2x1UnFzOVVEUlZBT012SEJvSDhyMExKUWlWV1dOMFR3SWlHbzUyeWpRYXhCZkNQSUhpdkJHcjFNM0hSVzIyR2lTbjJaQnpPaVFPR0xtZ2QxQTk2VEhoTVJqTUkwbFpn?oc=5",
       "country": "Russia"
     }
   ]
