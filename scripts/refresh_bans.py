@@ -3,7 +3,6 @@
 Refreshes ban-tracker.json with fresh messenger-ban news.
 Uses Google News RSS (no API key required). Runs via GitHub Actions every 6h.
 """
-
 import json
 import re
 import urllib.request
@@ -38,6 +37,53 @@ COUNTRIES = [
     "Germany", "France", "United Kingdom", "United States", "Spain", "Italy"
 ]
 
+# FIX: many news headlines use the adjective/demonym form of a country instead
+# of the country name itself ("Russian officials...", "Kazakh regulator...").
+# detect_country() previously only matched the literal noun as a substring,
+# which works by accident for some countries (e.g. "Egyptian" contains "Egypt")
+# but silently misses many others — especially every "-stan" country, plus
+# France/French, Germany/German, Turkey/Turkish, Spain/Spanish, Thailand/Thai,
+# Myanmar/Burmese, United Kingdom/British, United States/American. This was
+# quietly filtering out real matching stories with "if not country: continue".
+COUNTRY_DEMONYMS = {
+    "Russia": ["russian"],
+    "France": ["french"],
+    "Germany": ["german"],
+    "Turkey": ["turkish"],
+    "Spain": ["spanish"],
+    "Italy": ["italian"],
+    "Thailand": ["thai"],
+    "Myanmar": ["burmese"],
+    "Kazakhstan": ["kazakh"],
+    "Uzbekistan": ["uzbek"],
+    "Tajikistan": ["tajik"],
+    "Turkmenistan": ["turkmen"],
+    "United Kingdom": ["british", "uk"],
+    "United States": ["american", "u.s."],
+    "Egypt": ["egyptian"],
+    "Sudan": ["sudanese"],
+    "Cuba": ["cuban"],
+    "Vietnam": ["vietnamese"],
+    "Venezuela": ["venezuelan"],
+    "Ethiopia": ["ethiopian"],
+    "Nigeria": ["nigerian"],
+    "Pakistan": ["pakistani"],
+    "Bangladesh": ["bangladeshi"],
+    "Indonesia": ["indonesian"],
+    "Belarus": ["belarusian", "belarussian"],
+    "Ukraine": ["ukrainian"],
+    "India": ["indian"],
+    "China": ["chinese"],
+    "Iran": ["iranian"],
+    "Saudi Arabia": ["saudi"],
+    "UAE": ["emirati"],
+    "Chad": ["chadian"],
+    "Senegal": ["senegalese"],
+    "Uganda": ["ugandan"],
+    "North Korea": ["north korean"],
+    "Brazil": ["brazilian"],
+}
+
 USER_AGENT = "Mozilla/5.0 (compatible; BanTrackerBot/1.0; +https://bantracker.org)"
 
 
@@ -54,9 +100,16 @@ def fetch_rss(query):
 
 
 def detect_country(text):
+    text_lower = text.lower()
+    # 1. Literal country name (existing behavior).
     for c in COUNTRIES:
-        if c.lower() in text.lower():
+        if c.lower() in text_lower:
             return c
+    # 2. FIX: fall back to adjective/demonym forms.
+    for country, demonyms in COUNTRY_DEMONYMS.items():
+        for d in demonyms:
+            if d in text_lower:
+                return country
     return None
 
 
@@ -85,10 +138,8 @@ def collect_candidates():
                 pubdate = item.findtext("pubDate") or ""
                 source_el = item.find("source")
                 source_name = source_el.text if source_el is not None else "News"
-
                 if not title or not link:
                     continue
-
                 # For ambiguous platform names, require a confirming word so we
                 # don't pull in unrelated stories (e.g. "Trump signals reversal").
                 confirm_words = AMBIGUOUS_PLATFORM_CONFIRM.get(platform)
@@ -96,11 +147,9 @@ def collect_candidates():
                     title_lower = title.lower()
                     if not any(w in title_lower for w in confirm_words):
                         continue
-
                 country = detect_country(title)
                 if not country:
                     continue  # skip stories we can't attribute to a country
-
                 candidates.append({
                     "date": parse_pubdate(pubdate),
                     "platform": platform,
@@ -119,7 +168,6 @@ def load_existing():
             items = data.get("items", [])
     except Exception:
         return []
-
     # Retroactively scrub old entries that would fail today's confirming-keyword check
     cleaned = []
     removed = 0
@@ -155,15 +203,12 @@ def main():
     existing = load_existing()
     candidates = collect_candidates()
     merged, added = dedupe_and_merge(existing, candidates)
-
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "items": merged
     }
-
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
-
     print(f"Done. Added {added} new item(s). Total tracked: {len(merged)}.")
 
 
