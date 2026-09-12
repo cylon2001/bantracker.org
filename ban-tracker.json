@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "items": [
     {
       "date": "2026-09-10",
@@ -394,6 +394,14 @@
       "country": "Ukraine"
     },
     {
+      "date": "2026-08-03",
+      "platform": "WhatsApp",
+      "title": "WhatsApp Blocks Users in Several Countries as Meta Works to Restore Access | Ukraine news - Межа. Новини України.",
+      "summary": "Reported by Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DSkRlTkpYLVN2WFBWSEtvbUdLc0lUSW9QSEZrRWYyQ0tuczVIUF93ZnhZN21CZjllclF2NURhMWdMWUxjdjh5Qy1rcnhQT3RUamNZOFBEOW5taDduLTdaRVp6dnN6dm5oOHc?oc=5",
+      "country": "Ukraine"
+    },
+    {
       "date": "2026-08-01",
       "platform": "WhatsApp",
       "title": "Is WhatsApp set to introduce age restrictions? New report says it is asking for your age - India Today",
@@ -472,14 +480,6 @@
       "summary": "Reported by Iran International",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZdXhBUWRZTjBWeDVQNVRsVkIyNGd6V3I5ZXFxb2FOUUJZMmdKYmRDRnlDNE9rU1NlRUZLc1ZHcFF6YWFXVWRnaFNrV2ZPa3JaN2c?oc=5",
       "country": "Iran"
-    },
-    {
-      "date": "2026-07-29",
-      "platform": "Telegram",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism - BBC",
-      "summary": "Reported by BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBS1E3WWVaNVM0R0RkZno1dnM5M1RGZ1o4Rll1dGN0VXp6QmV5ZzJNVUh4N1Nxd21ZbDgxVnJGMFZxTy0xdGhYang1S25KTmNaYU1EcU1HQWJtQmQ5?oc=5",
-      "country": "Russia"
     }
   ]
 }
