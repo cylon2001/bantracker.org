@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "items": [
+    {
+      "date": "2026-09-29",
+      "platform": "Messenger",
+      "title": "\"A Spy in Your Pocket\": Russian Messenger Max Tracks Users and Helps Block VPNs - Наша Ніва",
+      "summary": "Reported by Наша Ніва",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94ZkswdDl0VHNVbTdIWVlpdmpSYlZFS3VaLURoWm1rZE4zQjVrckFhaVQwYXhsT1dSOWlTeTRJLWhQS2RKOGfSAUtBVV95cUxNcnQ3dGdUWXFjbFVaQUE5VlRsdHpySkhSRmVYaV9xMmRvUUtxdldpLUdsUzRlUmJWUzFnQll4cFZudWhIMGl0SW5fMEU?oc=5",
+      "country": "Russia"
+    },
     {
       "date": "2026-09-28",
       "platform": "WhatsApp",
@@ -8,6 +16,14 @@
       "summary": "Reported by India.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbGtMTXdyT1A5UUl3aEtRazFJMzBaSjQwUjNPTzdKQlVhanpGcDlCaEVnTEo0SWhjRjB0MUUwZ3h3UWt6clZFcjZjQXJXazBWT09CTGxEa1I3c20wZHlQeGhJQWdjNkkwNkxCSjdmQVMtek1pYWxGaTJUY2xNYWxBOWp1X3JLVW05MDdMQ0pBT0ZSaWtxcWNhOWREYWFOVmMxWW5BRUlaT1lUWGRkVkJGRjNNUXlEcDFLaDJodHNib0RLaE1OVWVxQW5TVE9GRkNrNUg3NQ?oc=5",
       "country": "India"
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "Messenger",
+      "title": "Online pet store shut down after £6.3m 'unexplained transactions' - messengernewspapers.co.uk",
+      "summary": "Reported by messengernewspapers.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTdwMXJDN0JjYTc3TW5JamFINldSMnpBUW9wV3Qwa016M3paZXpPSXJvei1aempIenZ5VjNTVlF3Z0xxWjRORFBIWWJ6N1I1cXNDaFN0aHBkN0FEaWZrVXNNcGtHOVRYbHlzRDZnaGhyQU5FbVpKZTYtZTZ5MXlVQWg2YXR5MjdCZ1FXVVp2eG4ycDJYRWJ1UG5ISG1RMnhRZ3JHMUxXdmNMbW5pazFrYzhXNG9RM3Vo?oc=5",
+      "country": "United Kingdom"
     },
     {
       "date": "2026-09-27",
@@ -463,22 +479,6 @@
       "title": "WhatsApp puts multiple accounts under review, temporarily blocks access for users - The Times of India",
       "summary": "Reported by The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelJ0TFpiSjRKSFp4LUJBeVBQYUhJQXJydEtrY2xqbFhkdGg1bzZ0aEZJbG1NcWROWFVNUTZVcDZuUlFpczBVXzRwc2pyYkJnS25ZdWVhRGdYWlYybGJpb2dFQWQtal92V1BCZjVSYjhGUUxrUkFuaDEzRDVvRS0xZVF3ZFdXVXdtdzB0cVJpTzJBNU5yaUFLY041S09QRUFtZWRqZElnd2t3empIMmJQN0llUHhvQW5RelVYWHFXUEZBRHR4czBWblcteUFpYzcxV1JYX3N5eThodkhhYUxhUmdn?oc=5",
-      "country": "India"
-    },
-    {
-      "date": "2026-08-04",
-      "platform": "WhatsApp",
-      "title": "WhatsApp users report being mysteriously blocked from app - independent.co.uk",
-      "summary": "Reported by independent.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDI3S293RlFrdUgwd0hJTDBrX0xyQVFobFgzcXRSTXNvdlFVbXhNbmpqbXdPM2R3RHdJMWF6eTQyMTlwRDRnc3ZBSXFoamh2N3pBZUtOMDBvd3ppaUNDemlnbWJBNTY2a2ljU1dmOE5wTGk1VjI4TDA5bzI2aU8zVzZ5bjl3SlBpOFhic3ZFWWp3RG1h?oc=5",
-      "country": "United Kingdom"
-    },
-    {
-      "date": "2026-08-03",
-      "platform": "WhatsApp",
-      "title": "WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times",
-      "summary": "Reported by Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5",
       "country": "India"
     }
   ]
