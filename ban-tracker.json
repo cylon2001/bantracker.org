@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "items": [
+    {
+      "date": "2026-10-30",
+      "platform": "Telegram",
+      "title": "India’s Telegram ban sets a dangerous precedent for platform blocking - East Asia Forum",
+      "summary": "Reported by East Asia Forum",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY21LTEhCYl9MV3dWMkprWklCVEZHcW5jS0gtLXhtWUtQeFg2a2FxcTBpRmtiWXNNM0hZM0l6SVJLU29PSHo2OGwxNklHVTd2NWQ0NGhMb2E1Rm1CSjU5VEY2LW1idHdOWF80Rkk5ZmxMcmtxblZXRnh3VFYyeHJsdTJzcHBpdjBSQkVTN01OMHM1UnFGb1dqaDlpMHJUSmdzeGM3Zk9PTjFyUQ?oc=5",
+      "country": "India"
+    },
     {
       "date": "2026-10-29",
       "platform": "Telegram",
@@ -472,14 +480,6 @@
       "summary": "Reported by Jakarta Globe",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWhXMkgwMFJSQmIwbl85NGxEdTZ1ZlpabldLUk5CRlRhdjBoQ3hMZFEzSEY2bHAxRGpRUmlOMDhQWnVtUnI3TWNaUWpoWTRrd2l0VEJRUUFwd3VkdHVBN3pMei03N1N4b2tMeFJFZXNXZEYwcEZXQ1FSYlI3TkVvczJ6VUctOGlqaVA2WDA2NA?oc=5",
       "country": "Indonesia"
-    },
-    {
-      "date": "2026-08-24",
-      "platform": "Telegram",
-      "title": "France Telegram Case Turns 2: Is Durov Being Prosecuted for Saying No? - BeInCrypto",
-      "summary": "Reported by BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBReDdQMlNiSldUV21LTmQ0N05wbk5FXzVoZ3RGS0F2bS1uUk5XZnFPbVR1UGhSUGVpb2xVZ3gzYUlGeHAwMVE3V05PcXlKSlAtNnE0bVpTY2tpME10OGZPYVZWd3hrbjFHUm5xMUU0Zw?oc=5",
-      "country": "France"
     }
   ]
 }
